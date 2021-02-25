@@ -1,7 +1,9 @@
 /******************
  * YOUR CODE HERE *
  ******************/
-
+function isValidSecondary(color){
+  return (color === "orange" || color === "purple" || color === "green");
+};
 
 
 
